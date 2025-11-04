@@ -1,0 +1,3 @@
+YapHub Gate Bot for Telegram on Render
+- Background Worker
+- Long polling (no webhooks)
